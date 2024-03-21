@@ -1,0 +1,12 @@
+{
+  "name": "advanced-node",
+  "version": "1.0.0",
+  "description": "Projeto de estudo de NodeJs Avançado com TDD, Clean Architecture e Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
